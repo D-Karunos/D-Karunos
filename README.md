@@ -1,5 +1,5 @@
 - Hi, I’m Deividas or you can simply call me David.
-- Currently working as a Web developer in small company called Everyone in Glasgow, Scotland.
+- Currently working as a Web developer in a company called Everyone in Glasgow, Scotland.
 - Main experiences are: PHP, Laravel, JavaScript, Vue, HTML5, CSS3, SCSS, NPM, web hosting.
 - For business enquiries press <a href="mailto:deividas@dkarunos.com">here</a>
 
